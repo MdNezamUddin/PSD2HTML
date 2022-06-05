@@ -58,7 +58,7 @@
 }
 #ssd{
 	height:472px;
-	
+	width:1920px;
 }
 
 .r7{
@@ -168,7 +168,7 @@
 }
 .z{
 	
-	font-size:12px;
+	font-size:14px;
 	}
 	#ee{
 		
@@ -192,9 +192,19 @@
 	.cc:hover {
   color: #1aa3ff;
 }
+
+
+
 .cc1:hover {
   color: #1aa3ff;
+  text-decoration: none;
 }
+
+.cc2:hover {
+  color: #1aa3ff;
+}
+
+
 .vv{
 	
 	width:300px;
@@ -204,9 +214,8 @@
 .ff{
 	width:500px;
 }
-.t5{
-	text-size:24px;
-}
+
+
 .gu{
 	border:5px solid white;
 	height:290px;
@@ -274,6 +283,10 @@
 	width:10px;
 	
 }
+.pa{
+	
+	width:1170px;
+}
 #ty{
 	width :1170px;
 	font-size: 16px;
@@ -293,6 +306,20 @@
 	margin-top: -60px;
 	margin-left:20px;
 }
+.tm{
+	font-size: 48px;
+	
+}
+.3p{
+	font-size:48px;
+}
+.3e{
+	
+	font-size:16px;
+}
+.tn{
+	font-size: 24px;
+}
 .pop2{
 	width :70px;
 	height:70px;
@@ -303,6 +330,7 @@
 .kk{
 	height:150px;
 	width:370px;
+	background-color:#1aa3ff;
 	}
 	
 .ko{
@@ -365,6 +393,14 @@
 	font-size:14px;
 	
 }
+.jk{
+	
+	height:587px;
+}
+.jk1{
+	
+	height:290px;
+}
 
 .gh{
 	width :1320px;
@@ -410,17 +446,19 @@
 }
 
 .te{
-	
+	width:px;
 	color:#1aa3ff;
+	
 }
 .xc{
 	margin-left:150px;
 }
 .ui{
 	
-	width="1170"
+	width="1920px"
 }
 .tt{
 	
 	font-size:48px;
 }
+///////////////////////CArosal///////////////////////////

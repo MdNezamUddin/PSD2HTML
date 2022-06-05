@@ -1,0 +1,363 @@
+<div class="testimonials ">
+                       
+						<p class ="text-white" id ="dss"> Domain Search Here</p>
+                        <p class="description text-white" id ="dst"> Find your Domain Name  </p>
+                       <div class="s131">
+              
+			 
+   
+       
+    
+			  <button type="button" class="btn">Search Now</button>
+                        
+                    </div>
+
+hhhhhhhhhhhhhhhhhhhhhhhhhh
+
+<div class="container">
+  <div class="row">
+    <div class="col-md  text-white" id="aa">
+	
+  <div class="testimonial ">
+                        <div class="pic"> <img src="img/002.jpg" alt="">    </div>
+						<p class ="text-white"id ="ds" >Shared Hosting</p>
+                        <p class="description text-white">
+                            " Lorem ipsum dolor sit amet, consectetur adipisicing llam unde voluptatum? "
+                        </p>
+                       
+                       
+                    </div>
+  
+  <h6> Lorem ipsum is placeholder text comlishing industries for previewing layouts and visual mockups.</h6>
+    </div>
+    <div class="col-md  ">
+	<div class="testimonial ">
+                        <div class="pic"> <img src="img/002.jpg" alt="">    </div>
+						<p class ="text-white" id ="ds">Resaller Hosting</p>
+                        <p class="description text-white">
+						" Lorem ipsum dolor sit amet, nus non odio, quaerat ullam unde voluptatum? "
+                        </p>
+                        
+                        
+                    </div>
+    
+	
+    </div>
+    <div class="col-md  ">
+	<div class="testimonial ">
+                        <div class="pic"> <img src="img/002.jpg" alt="">    </div>
+					
+						<p class ="text-white" id ="ds">Cloud hosting</p>
+                        <p class="description text-white">
+                            " Lorem ipsum dolor sit amet, consectetur adipisicing llam unde voluptatum? "
+                        </p>
+                      
+                        
+                    </div>
+      
+    </div>
+	<div class="col-md  ">
+	<div class="testimonial ">
+                        <div class="pic"> <img src="img/002.jpg" alt="">    </div>
+						<p class ="text-white" id ="ds"> Dedicated Hosting</p>
+                        <p class="description text-white">
+                             " Lorem ipsum dolor sit amet, consectetur adipisicing  "
+                        </p>
+                       
+                        
+                        
+                    </div>
+     
+    </div>
+    <div class="col-md  ">
+	<div class="testimonial  ">
+                        <div class="pic"> <img src="img/002.jpg" alt="">    </div>
+						<p class ="text-white" id ="ds"> Hosting Consultant</p>
+                        <p class="description text-white">
+                             " Lorem ipsum dolor sit amet, consectetur adipisicing  "
+                        </p>
+                        
+                       
+                    </div>
+     
+    </div>
+  </div>
+</div>
+
+
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+<!--CArosal -2----->
+  <div class="container">
+    <h2>Carousel with Indicators, Controls and Captions</h2>
+    <div id="carouselExample" class="carousel slide w-100" data-bs-ride="carousel" data-bs-interval="3000">
+   <div class="carousel-indicators">
+     <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="0" class="active"></button>
+     <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="1"></button>
+     <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2"></button>
+   </div>
+   <div class="carousel-inner">
+  
+
+     <div class="carousel-item active">
+       <img class="d-block w-100" src="img/001.jpg" alt="First slide">
+       <div class="carousel-caption d-none d-md-block">
+          <h5>Social Facilities Center</h5>
+          <p>University Campus</p>
+       </div>
+     </div>
+  
+	
+     <div class="carousel-item">
+       <img class="d-block w-100" src="img/001.jpg" alt="Second slide">
+       <div class="carousel-caption d-none d-md-block">
+          <h5>Anastasios G. Leventis</h5>
+          <p>University House</p>
+       </div>
+     </div>
+     <div class="carousel-item">
+       <img class="d-block w-100" src="img/001.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+         <h5>Faculty of Engineering</h5>
+         <p>University Campus</p>
+      </div>
+     </div>
+   </div>
+   <button class="carousel-control-prev" data-bs-target="#carouselExample" type="button" data-bs-slide="prev">
+     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+     <span class="visually-hidden">Previous</span>
+   </button>
+   <button class="carousel-control-next" data-bs-target="#carouselExample" type="button" data-bs-slide="next">
+     <span class="carousel-control-next-icon" aria-hidden="true"></span>
+     <span class="visually-hidden">Next</span>
+   </button>
+  </div>
+  </div>
+
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
+
+     <div class="carousel-item">
+       <img class="d-block w-100" src="img/001.jpg" alt="Second slide">
+       <div class="carousel-caption d-none d-md-block">
+          <h5>Anastasios G. Leventis</h5>
+          <p>University House</p>
+       </div>
+     </div>
+     <div class="carousel-item">
+       <img class="d-block w-100" src="img/001.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+         <h5>Faculty of Engineering</h5>
+         <p>University Campus</p>
+      </div>
+     </div>
+   </div>
+kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+    @font-face {
+        font-family: 'Roboto';
+        src: url('../fonts/Roboto-Light.eot');
+        src: url('../fonts/Roboto-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-ThinItalic-webfont.woff') format('woff'), url('../fonts/Roboto-ThinItalic-webfont.ttf') format('truetype'), url('../fonts/Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg');
+        font-weight: 100;
+    }
+    
+    body {
+        margin: 0;
+        padding: 0;
+        font-size: 25px;
+        font-family: 'Roboto';
+        font-style: Light;
+    }
+    
+    #navv {
+        margin-left: 263px;
+        padding: 17px;
+    }
+    
+    #manu {
+        padding-left: 1 75px;
+    }
+    
+    #ss:hover {
+        color: rgb(8, 160, 233);
+    }
+    
+    .navbar-custom {
+        height: 100px;
+    }
+	#aa{
+		
+		padding-top:;
+	}
+	
+	.demo{
+    background: -webkit-linear-gradient(to left, #f99da6, #ffc371, #f99da6);
+    background:  linear-gradient(to left, #f99da6, #ffc371, #f99da6);
+}
+.testimonial{
+    text-align: center;
+    margin: 50px 0px 0;
+    padding: 0 10% 1%;
+    background: #1aa3ff;
+}
+.testimonial .pic{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 3px solid black;
+    display: inline-block;
+    margin-top: -50px;
+	margin-left:-130px;
+    overflow: hidden;
+    box-shadow:0 2px 6px rgba(0, 0, 0, 0.15);
+}
+.testimonial .pic img{
+    width: 100%;
+    height: auto;
+}
+.testimonial .description{
+    font-size: 14px;
+    font-style: italic;
+    color: #808080;
+    line-height: 30px;
+  
+}
+.testimonial .testimonial-title{
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+    color: #333;
+    text-transform: uppercase;
+}
+.testimonial .post{
+    display: block;
+    font-size: 13px;
+    color: #777;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+.testimonial .post:before{
+    content: "";
+    width: 30px;
+    display: block;
+    margin: 5px auto;
+    border: 1px solid #d3d3d3;
+}
+.testimonial .testimonial-rating{
+    
+    
+  
+}
+.testimonial .testimonial-rating li{
+    color: #d3d3d3;
+    display: inline-block;
+}
+.testimonial .testimonial-rating li.fa-star{
+    color: #333;
+}
+.owl-theme .owl-controls{
+    margin-top: 0px;
+}
+.owl-theme .owl-controls .owl-pagination{
+    width: 140px;
+    padding: 5px;
+    margin: 0 auto;
+    line-height: 13px;
+    background: #fe7f8b;
+}
+.owl-theme .owl-controls .owl-page span{
+    width: 12px;
+    height: 12px;
+    border-radius: 0;
+    background: transparent;
+    border: 1px solid #fff;
+}
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+    border: 4px solid #fff;
+}
+	
+	#ds{
+		 font-size: 24px;
+		
+	}
+	
+	#dss{
+		 font-size: 16px;
+		
+	}
+	#dst{
+		 font-size: 36px;
+		
+	}
+	.testimonials{
+   text-align:center;
+    background: Black;
+}
+.btn{
+	height :40px;
+	width:150px;
+	background: #1aa3ff;
+	color:white;
+}
+.sd{
+	padding-left:500px;
+	padding-right:500px;
+	
+	
+}
+
+
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhCArosaluuuuuuuuuuuuuuuuuuuu
+<div class="container">
+    <h2>Carousel with Indicators, Controls and Captions</h2>
+    <div id="carouselExample" class="carousel slide w-100" data-bs-ride="carousel" data-bs-interval="3000">
+   <div class="carousel-indicators">
+     <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="0" class="active"></button>
+     <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="1"></button>
+     <button type="button" data-bs-target="#carouselExample" data-bs-slide-to="2"></button>
+   </div>
+   <div class="carousel-inner">
+  
+
+     <div class="carousel-item active">
+       <img class="d-block w-100" src="img/001.jpg" alt="First slide">
+       <div class="carousel-caption d-none d-md-block">
+          <h5>Social Facilities Center</h5>
+          <p>University Campus</p>
+       </div>
+     </div>
+  
+	
+   <button class="carousel-control-prev" data-bs-target="#carouselExample" type="button" data-bs-slide="prev">
+     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+     <span class="visually-hidden">Previous</span>
+   </button>
+   <button class="carousel-control-next" data-bs-target="#carouselExample" type="button" data-bs-slide="next">
+     <span class="carousel-control-next-icon" aria-hidden="true"></span>
+     <span class="visually-hidden">Next</span>
+   </button>
+  </div>
+  </div>
+</div>
+
+
+<div class="col-md-offset-2 col-md-3">
+                <div id="testimonial-slider" class="owl-carousel">
+                    <div class="testimonial">
+                        <div class="pic">
+                            <img src="images/img-1.jpg" alt="">
+                        </div>
+                       <p class="description text-white">
+                            " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem commodi eligendi facilis itaque minus non odio, quaerat ullam unde voluptatum? "
+                        </p>
+                        <h3 class="testimonial-title">williamson</h3>
+                        <span class="post">Web Developer</span>
+                        
+                    </div>
+ 
+                    
+                </div>
+            </div>
